@@ -1,1 +1,1 @@
-# lead_scoring_python
+# Lead Scoring example in Python with Logistic Regression
