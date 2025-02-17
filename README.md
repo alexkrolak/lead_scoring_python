@@ -38,3 +38,20 @@ To set up the project locally:
 git clone https://github.com/alexkrolak/lead_scoring_python.git
 cd lead_scoring_python
 pip install -r requirements.txt
+```
+
+## Usage
+
+1. Open the **`Lead Scoring.ipynb`** notebook in your Jupyter environment.
+2. Run the cells sequentially to perform EDA, build the logistic regression model, and evaluate lead scores.
+3. The final output will include visualizations and predictions.
+
+## Future Improvements
+
+- **Model Optimization**: Future work will focus on enhancing the model, experimenting with different algorithms, and tuning the hyperparameters for better performance.
+- **Deployment**: The next step involves turning this notebook into a deployable solution that can score leads in real-time.
+- **Automated Data Pipeline**: Automating the data preprocessing and scoring process for scalability.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
